@@ -1,5 +1,4 @@
 # Restaurant Rating Analysis using Python
-
 This data science project focuses on analyzing restaurant-related data and building a machine learning model  
 to predict restaurant ratings based on features like cuisine type, price range, online delivery, table booking, and more.
 
